@@ -761,8 +761,8 @@ main {
 }
 
 .clients-item img {
-width: 150px; /* Set the width of the images */
-  height: 150px; /* Set the height of the images */
+  max-width: 100px; /* Set the width of the images */
+  max-height: 100px; /* Set the height of the images */
   object-fit: contain;
 } 
 
