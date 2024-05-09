@@ -750,26 +750,26 @@ main {
   white-space: nowrap; /* Ensure images stay in a single row */
 }
 
-.clients-item {
-  display: inline-block;
+/* .clients-item {
+  
   width: auto; /* Allow images to determine their own width */
   height: 100%; /* Make images fill the entire height of the container */
-}
+} */
 
 .clients-item img {
   max-height: 100%; 
 	font-size:36px;
 	display:block;
-	/* Ensure images don't exceed the container height */
+	
 }
 
-/* .clients-item {
+.clients-item {
   min-width: 50%;
   scroll-snap-align: start;
-} */
-/* .clients-item a {
+}
+.clients-item a {
   display: block;
-} */
+}
 /* .clients-item {
   display: inline-block;
   width: 150px;
