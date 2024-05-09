@@ -2166,6 +2166,20 @@ textarea.form-input::-webkit-resizer { display: none; }
 		}
   .social-list { justify-content: center; }
 
+
+	.hobbies-wrap{
+	background:#fbb829;
+	text-align:center;
+	padding:20px 0;
+	letter-spacing:0.1em;
+	text-transform:uppercase;
+	color:#FFF;
+}
+.hobbies-wrap i{
+	font-size:36px;
+	display:block;
+}
+
 	/* Style the flip box container */
 
 
