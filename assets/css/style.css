@@ -751,13 +751,16 @@ main {
 /* .clients-item a {
   display: block;
 } */
-/* .clients-item {
-  display: inline-block; */
-/*   width: 150px; /* Adjust this value to fit your design */ */
-/*   height: 150px; /* Adjust this value to fit your design */
+.clients-item {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+	/* Adjust this value to fit your design 
+  
 /*   margin: 10px; /* Adjust this value to create spacing between the boxes */  */
 /*   text-align: center; /* Center the image horizontally */ */
 /*   flex: 0 0 auto; */
+	
 }
 
 .clients-item img {
