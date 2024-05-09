@@ -761,18 +761,16 @@ main {
 }
 
 .clients-item img {
-  max-width: 100%;
-  max-height: 100%; 
-/*    width: auto;
-  height: auto; */
-  object-fit: cover;
+width: 150px; /* Set the width of the images */
+  height: 150px; /* Set the height of the images */
+  object-fit: contain;
 } 
 
-.clients-item img {
+/* .clients-item img { */
 /*   width: 100%;
 /*   filter: grayscale(1); */ */
-  transition: var(--transition-1);
-}
+/*   transition: var(--transition-1);
+} */
 
 .clients-item img:hover;
 
