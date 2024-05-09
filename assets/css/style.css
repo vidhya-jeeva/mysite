@@ -2179,7 +2179,14 @@ textarea.form-input::-webkit-resizer { display: none; }
 	font-size:36px;
 	display:block;
 }
-
+#hobbie-slider{
+	position:relative;
+}
+#hobbie-slider .owl-controls{
+	position:absolute;
+	top:-50px;
+	right:0;
+}
 	/* Style the flip box container */
 
 
