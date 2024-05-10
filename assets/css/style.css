@@ -593,7 +593,7 @@ main {
   border-radius: 14px;
   box-shadow: var(--shadow-1);
 }
-.testimonials-item > a:hover { transform: scale(1.1); }
+.testimonials-item > a:hover .testimonials-text { transform: scale(1.1); }
 
 
 .testimonials-item-title { margin-bottom: 7px; }
