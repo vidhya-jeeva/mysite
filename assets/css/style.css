@@ -274,7 +274,7 @@ article.active {
 .content-card {
   position: relative;
   background: var(--border-gradient-onyx);
-  padding: 30px;
+  padding: 80px;
 /*   padding-top: 45px; */
   border-radius: 14px;
   box-shadow: var(--shadow-2);
