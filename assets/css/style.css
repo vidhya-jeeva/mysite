@@ -274,7 +274,8 @@ article.active {
 .content-card {
   position: relative;
 /*   background: var(--border-gradient-onyx); */
-	 background-color: #e6e6fa;
+/* 	 background-color: #e6e6fa; */
+	 background-color: #FADADD;
   padding: 80px;
 /*   padding-top: 45px; */
   border-radius: 14px;
@@ -288,7 +289,8 @@ article.active {
   position: absolute;
   inset: 1px;
 /*   background: var(--bg-gradient-jet); */
-	 background-color: #e6e6fa;
+/* 	 background-color: #e6e6fa; */
+	background-color: #FADADD;
   border-radius: inherit;
   z-index: -1;
 }
