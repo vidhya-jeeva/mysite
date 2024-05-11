@@ -275,7 +275,7 @@ article.active {
   position: relative;
 /*   background: var(--border-gradient-onyx); */
 /* 	 background-color: #e6e6fa; */
-	 background-color: #FADADD;
+	 background-color: #FA8072;
   padding: 80px;
 /*   padding-top: 45px; */
   border-radius: 14px;
@@ -290,7 +290,7 @@ article.active {
   inset: 1px;
 /*   background: var(--bg-gradient-jet); */
 /* 	 background-color: #e6e6fa; */
-	background-color: #FADADD;
+	background-color: #FA8072;
   border-radius: inherit;
   z-index: -1;
 }
