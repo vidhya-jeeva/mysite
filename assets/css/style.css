@@ -288,6 +288,8 @@ article.active {
   content: "";
   position: absolute;
   inset: 1px;
+	  padding: 50px;
+
 /*   background: var(--bg-gradient-jet); */
 /* 	 background-color: #e6e6fa; */
 	background-color: #808080;
