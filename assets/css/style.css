@@ -119,8 +119,8 @@
 \*-----------------------------------*/
 
 *, *::before, *::after {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 20;
   box-sizing: border-box;
 }
 
