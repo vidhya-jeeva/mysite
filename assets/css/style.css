@@ -288,7 +288,7 @@ article.active {
   content: "";
   position: absolute;
   inset: 1px;
-	  padding: 50px;
+  padding: 30px;
 
 /*   background: var(--bg-gradient-jet); */
 /* 	 background-color: #e6e6fa; */
