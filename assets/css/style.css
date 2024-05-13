@@ -1097,7 +1097,7 @@ main {
   width: 70%;
   height: 200px;
   border-radius: 12px;
-  overflow: hidden;
+/*   overflow: hidden; */
 }
 
 .blog-banner-box img {
