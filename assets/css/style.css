@@ -289,7 +289,7 @@ article.active {
   position: absolute;
   inset: 1px;
   padding: 30px;
-	inset: 1px 30px 1px 30px;
+	inset: 5px 30px 1px 10px;
 
 /*   background: var(--bg-gradient-jet); */
 /* 	 background-color: #e6e6fa; */
