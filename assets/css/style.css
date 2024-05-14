@@ -291,8 +291,8 @@ article.active {
   padding: 30px;
 	inset: 5px 30px 1px 10px;
 
-  background: var(--bg-gradient-jet); 
-/* 	 background-color: #e6e6fa;
+/*   background: var(--bg-gradient-jet); 
+/* 	 background-color: #e6e6fa; */
 	background-color: #808080;
   border-radius: inherit;
   z-index: -1;
