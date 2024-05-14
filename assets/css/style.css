@@ -606,7 +606,8 @@ main {
 .testimonials-item-title { margin-bottom: 7px; }
 
 .testimonials-text {
-  color: var(--light-gray);
+/*   color: var(--light-gray); */
+	 background: hsl(0, 0%, 5%);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
