@@ -277,7 +277,7 @@ article.active {
 /* 	 background-color: #e6e6fa; */
 	 background-color: #808080;
   padding: 15px;
-/*   padding-top: 45px; */
+  padding-top: 45px;
   border-radius: 14px;
   box-shadow: var(--shadow-2);
   cursor: pointer;
