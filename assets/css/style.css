@@ -147,6 +147,8 @@ input, textarea {
 
 ::selection {
   background: var(--orange-yellow-crayola);
+  background-image: url("./images/stock-vector-hello-in-different-languages-seamless-pattern-repeating-texture-background-design-for-school-1868880973.jpg");
+
 /*   color: var(--white);     	 */
 }
 
