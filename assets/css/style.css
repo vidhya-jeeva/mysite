@@ -276,7 +276,7 @@ article.active {
 /*   background: var(--border-gradient-onyx); */
 /* 	 background-color: #e6e6fa; */
 	 background-color: #808080;
-  padding: 80px;
+  padding: 15px;
 /*   padding-top: 45px; */
   border-radius: 14px;
   box-shadow: var(--shadow-2);
@@ -288,9 +288,9 @@ article.active {
   content: "";
   position: absolute;
   inset: 1px;
-  padding: 30px;
+/*   padding: 30px;
 	inset: 5px 30px 1px 10px;
-
+ */
 /*   background: var(--bg-gradient-jet);  */
 /* 	 background-color: #e6e6fa; */
 	background-color: #808080;
