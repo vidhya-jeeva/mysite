@@ -159,7 +159,9 @@ html { font-family: var(--ff-poppins);
 }
 
 body { 
-      background-image: url("paper.gif");
+background: var(--smoky-black);
+	
+/*       background-image: url("paper.gif"); */
      }
 
 
