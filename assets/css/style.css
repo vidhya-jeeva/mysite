@@ -155,7 +155,9 @@ input, textarea {
 
 :focus { outline-color: var(--orange-yellow-crayola); }
 
-html { font-family: var(--ff-poppins); }
+html { font-family: var(--ff-poppins);
+          background: url('mysite/assets/images/stock-vector-hello-in-different-languages-seamless-pattern-repeating-texture-background-design-for-school-1868880973.jpg');}
+}
 
 body { background: var(--white);
      background: url('mysite/assets/images/stock-vector-hello-in-different-languages-seamless-pattern-repeating-texture-background-design-for-school-1868880973.jpg');}
