@@ -1487,7 +1487,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .testimonials-item-title:hover,
 .testimonials-item-title:focus { color: var(--light-gray-70); }
 
-.testimonials-item-title { color: var(--orange-yellow-crayola); }
+.testimonials-item-title { color: var(--white); }
 
 	
   .testimonials-text {
