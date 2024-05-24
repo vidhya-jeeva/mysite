@@ -1483,7 +1483,13 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-bottom: 10px;
     margin-left: 95px;
   }
+	
+.testimonials-item-title:hover,
+.testimonials-item-title:focus { color: var(--light-gray-70); }
 
+.testimonials-item-title { color: var(--orange-yellow-crayola); }
+
+	
   .testimonials-text {
     line-clamp: 2;
     -webkit-line-clamp: 2;
